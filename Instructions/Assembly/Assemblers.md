@@ -32,6 +32,8 @@
 
   [谈谈AsmJit - \_懒人 - 博客园](https://www.cnblogs.com/lanrenxinxin/p/5021641.html)
 
+- [Midi12/cx\_assembler: A c++20 constexpr x86 assembler](https://github.com/Midi12/cx_assembler)
+
 [\[原创\]各种开源汇编、反汇编引擎的非专业比较-『软件逆向』-看雪安全论坛](https://bbs.pediy.com/thread-205590.htm)
 
 [2 assembler & 2 disassembler\_运维\_Starr - CSDN 博客](https://blog.csdn.net/Ga4ra/article/details/101533322)
