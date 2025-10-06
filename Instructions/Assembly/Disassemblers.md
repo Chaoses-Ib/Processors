@@ -1,4 +1,9 @@
-# 反汇编引擎
+# Disassemblers
+Disassemblers, 反汇编引擎
+
+- [iced: Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua](https://github.com/icedland/iced)
+- [Zydis: Fast and lightweight x86/x86-64 disassembler and code generation library](https://github.com/zyantific/zydis)
+
 - BeaEngine
 
   [BeaEngine/beaengine: BeaEngine disasm project](https://github.com/BeaEngine/beaengine)
@@ -15,8 +20,11 @@
 
   [aquynh/capstone: Capstone disassembly/disassembler framework](https://github.com/aquynh/capstone)
 
-解析指令长度  
-[Blackbone/LDasm.c at master - DarthTon/Blackbone - GitHub](https://github.com/DarthTon/Blackbone/blob/master/src/BlackBone/Asm/LDasm.c)
+## Length disassemblers
+解析指令长度
+
+- [lend: Tiny x86 Length Disassembler](https://github.com/greenbender/lend)
+- [Blackbone/LDasm.c at master - DarthTon/Blackbone - GitHub](https://github.com/DarthTon/Blackbone/blob/master/src/BlackBone/Asm/LDasm.c)
 
 ## Capstone
 ```python
