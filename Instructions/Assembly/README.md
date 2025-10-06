@@ -35,3 +35,9 @@ Configuration:
 ## IDEs
 - Visual Studio
   - [AsmDude2: Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window](https://github.com/HJLebbink/asm-dude)
+- [ZathuraDbg: An emulation based tool for learning and debugging assembly.](https://github.com/ZathuraDbg/ZathuraDbg)
+
+Web:
+- [x86-64-playground: An online assembly editor, emulator and debugger for the x86-64 architecture](https://github.com/robalb/x86-64-playground)
+
+  [x86-64 playground: an online assembly editor and GDB-like debugger : r/ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/comments/1iwm389/x8664_playground_an_online_assembly_editor_and/)

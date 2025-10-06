@@ -19,6 +19,8 @@
   > 
   > For example, the parity flag `%pf` is undefined in the logical-and-not instruction `andn`, where the processor implementation is allowed to either update the flag value (to 0 or 1), or keep the previous value.[^dasguptaCompleteFormalSemantics2019]
 
+[An interactive guide to x86-64 assembly - moving data](https://halb.it/posts/x64-moving-data/) ([Hacker News](https://news.ycombinator.com/item?id=41026726))
+
 [x86 instruction listings - Wikipedia](https://en.wikipedia.org/wiki/X86_instruction_listings)
 
 [Alternate Instruction Set - Wikipedia](https://en.wikipedia.org/wiki/Alternate_Instruction_Set)

@@ -61,6 +61,11 @@ N/A，比解码应该性能差异小得多。
 - [DynASM](https://luajit.org/dynasm.html)
   - Rust: [dynasm-rs: A dynasm-like tool for rust.](https://github.com/CensoredUsername/dynasm-rs)
 
+## Custom ISA
+- [customasm: 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/](https://github.com/hlorenzi/customasm)
+
+  [Customasm -- An assembler for custom, user-defined instruction sets | Hacker News](https://news.ycombinator.com/item?id=42676245)
+
 ## Rust
 - [→iced](#iced)
 - [playX18/asmkit: Assembler toolkit: encoding and decoding of various architectures](https://github.com/playX18/asmkit) (discontinued)
@@ -85,6 +90,9 @@ N/A，比解码应该性能差异小得多。
   - [xed-sys: Rust FFI bindings for Intel XED](https://github.com/rust-xed/xed-sys)
     - [libLISA/rusty-xed: High-level, safe, bindings for XED](https://github.com/libLISA/rusty-xed)
   - [roeeshoshani/xed-sys2](https://github.com/roeeshoshani/xed-sys2)
+- Used by Binary Ninja
+
+  [Binary Ninja update... - Issue #1 - sapdragon/hint-break](https://github.com/sapdragon/hint-break/issues/1)
 
 ## [iced](https://github.com/icedland/iced)
 > Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
@@ -99,4 +107,8 @@ N/A，比解码应该性能差异小得多。
 
 ## Tools
 Web:
+- [AsmToolkit](https://malware-decoded.github.io/asm-toolkit/)
+
+  [Online Tool for Assembly ↔ Opcode Conversion + Emulation : r/ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/comments/1l94jhi/online_tool_for_assembly_opcode_conversion/)
+- [yohanes/online-assembler: Browser assembler based on Keystone using WASM](https://github.com/yohanes/online-assembler)
 - [Online x86 and x64 Intel Instruction Assembler](https://defuse.ca/online-x86-assembler.htm)
