@@ -20,6 +20,8 @@ Prefix | OP | Mod R/M | SIB | Disp | Imm
 
 	`ADD ECX, [EBX+EDI<<2+66H]`
 
+[x86's instruction decoder suffers from its inability to parallelize some things.... | Hacker News](https://news.ycombinator.com/item?id=26275605)
+
 ## Enumerating
 How many valid byte combinations correspond to legal x86-64 architecture instructions of a certain length?[^mahoneyEnumeratingX8664Its2021]
 

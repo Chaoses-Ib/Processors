@@ -21,6 +21,8 @@
   - [Calling Conventions](x86/Interface/Calling.md)
 - [Memory Management](x86/Memory/README.md)
   - [Memory Alignment](x86/Memory/Alignment.md)
+- [Advanced Vector Extensions (AVX)](x86/AVX/README.md)
+- [Advanced Performance Extensions (APX)](x86/APX/README.md)
 
 ## [ARM](ARM/README.md)
 
